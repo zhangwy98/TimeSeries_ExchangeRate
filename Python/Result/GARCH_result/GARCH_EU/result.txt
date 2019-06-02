@@ -1,0 +1,1019 @@
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-11 08:00:00]:
+      Series   Sigma
+T+1 0.006239 0.02347
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.003032 0.02196
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+      Series   Sigma
+T+1 0.006808 0.02042
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.004565 0.02092
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+     Series   Sigma
+T+1 0.00754 0.02053
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+        Series   Sigma
+T+1 -0.0008123 0.02134
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+      Series  Sigma
+T+1 0.007418 0.0197
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.003761 0.02064
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+      Series   Sigma
+T+1 0.007175 0.02099
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.001813 0.02117
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+      Series   Sigma
+T+1 0.002795 0.02022
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+      Series   Sigma
+T+1 0.004304 0.01888
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 0.0009227 0.01816
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+      Series   Sigma
+T+1 0.000418 0.01731
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.001422 0.01666
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 0.0002757 0.01622
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.003313 0.01565
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series  Sigma
+T+1 -0.008353 0.0181
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.004268 0.02152
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.005359 0.01922
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series  Sigma
+T+1 -0.005055 0.0178
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+      Series   Sigma
+T+1 -0.01781 0.01853
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+      Series   Sigma
+T+1 -0.01376 0.03107
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+      Series   Sigma
+T+1 -0.01941 0.02536
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.008342 0.02727
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+      Series   Sigma
+T+1 0.007137 0.02532
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+      Series   Sigma
+T+1 0.002684 0.02807
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.006243 0.02325
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+      Series   Sigma
+T+1 0.001134 0.02352
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+      Series   Sigma
+T+1 0.001598 0.02253
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+        Series   Sigma
+T+1 -0.0007707 0.02041
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+      Series   Sigma
+T+1 -0.01542 0.01971
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+     Series   Sigma
+T+1 0.00183 0.02783
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.002304 0.02695
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+      Series   Sigma
+T+1 0.003963 0.02344
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+        Series   Sigma
+T+1 -0.0001135 0.02357
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+      Series  Sigma
+T+1 0.003098 0.0213
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.001774 0.02139
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.003929 0.01977
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.006328 0.01873
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 0.0003113 0.01948
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.002057 0.02064
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series  Sigma
+T+1 -0.007008 0.0186
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.008214 0.01892
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.009868 0.01865
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.001412 0.01874
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.002481 0.01907
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.001633 0.01768
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.001135 0.01692
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+      Series   Sigma
+T+1 0.006325 0.01867
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+      Series   Sigma
+T+1 0.003008 0.01835
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+      Series   Sigma
+T+1 0.007086 0.01854
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+      Series   Sigma
+T+1 0.006943 0.01844
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+      Series   Sigma
+T+1 0.002469 0.01804
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.004391 0.01798
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series  Sigma
+T+1 -0.001573 0.0177
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 0.0006807 0.01739
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+    Series   Sigma
+T+1  0.007 0.01734
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+      Series   Sigma
+T+1 0.003799 0.01973
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 0.0002394 0.01831
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.001899 0.01716
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+      Series   Sigma
+T+1 -0.01084 0.01703
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.005821 0.02016
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.001384 0.01856
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.004328 0.01755
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series  Sigma
+T+1 0.0008575 0.0171
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.002528 0.01833
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series  Sigma
+T+1 -0.002951 0.0129
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+        Series   Sigma
+T+1 -0.0001328 0.01791
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series  Sigma
+T+1 0.0009459 0.0126
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+        Series   Sigma
+T+1 -0.0008856 0.01711
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.001794 0.01245
+
+
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-04-12 08:00:00]:
+       Series   Sigma
+T+1 -0.002059 0.01721

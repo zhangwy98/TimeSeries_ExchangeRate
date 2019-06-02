@@ -1,0 +1,619 @@
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-22 08:00:00]:
+       Series    Sigma
+T+1 -0.006957 0.008594
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+      Series   Sigma
+T+1 0.004396 0.00875
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+      Series    Sigma
+T+1 0.001398 0.008482
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+      Series    Sigma
+T+1 0.007168 0.009371
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+     Series    Sigma
+T+1 0.00145 0.009025
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+       Series    Sigma
+T+1 -0.004153 0.008855
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+        Series    Sigma
+T+1 -0.0002866 0.007994
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+    Series    Sigma
+T+1 0.0013 0.007468
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+       Series    Sigma
+T+1 -0.002074 0.007221
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+       Series    Sigma
+T+1 0.0002488 0.006679
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+       Series    Sigma
+T+1 -0.007202 0.007363
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+       Series    Sigma
+T+1 0.0001327 0.007283
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+       Series    Sigma
+T+1 -0.008852 0.008727
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+       Series    Sigma
+T+1 -0.003931 0.008494
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+      Series    Sigma
+T+1 0.006164 0.009066
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+       Series    Sigma
+T+1 -0.004369 0.008955
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+        Series    Sigma
+T+1 -0.0003979 0.008411
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+      Series   Sigma
+T+1 -0.01449 0.01173
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+       Series Sigma
+T+1 -0.001834 0.011
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+       Series   Sigma
+T+1 0.0003955 0.01051
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+       Series   Sigma
+T+1 -0.002441 0.01006
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+      Series   Sigma
+T+1 0.007339 0.01065
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+      Series   Sigma
+T+1 0.003983 0.01044
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+     Series   Sigma
+T+1 0.01872 0.01561
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+       Series   Sigma
+T+1 0.0005708 0.01443
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+       Series   Sigma
+T+1 0.0009401 0.01352
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+      Series   Sigma
+T+1 0.005103 0.01305
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+        Series  Sigma
+T+1 -0.0005822 0.0124
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+       Series   Sigma
+T+1 -0.003037 0.01206
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+       Series   Sigma
+T+1 -0.005344 0.01206
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+        Series   Sigma
+T+1 -0.0002796 0.01159
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+       Series   Sigma
+T+1 -0.001149 0.01121
+
+
+Warning message in .sgarchfit(spec = spec, data = data, out.sample = out.sample, :
+"
+ugarchfit-->waring: using less than 100 data
+ points for estimation
+"
+
+*------------------------------------*
+*       GARCH Model Forecast         *
+*------------------------------------*
+Model: sGARCH
+Horizon: 1
+Roll Steps: 0
+Out of Sample: 0
+
+0-roll forecast [T0=1970-03-23 08:00:00]:
+      Series   Sigma
+T+1 0.001591 0.01086
