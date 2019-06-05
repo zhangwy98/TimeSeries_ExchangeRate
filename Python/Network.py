@@ -120,3 +120,5 @@ for feature_len in [1,2]:
     PredictionOutputMAE[name] = mae_
     PredictionOutputRMSE[name] = rmse_
 
+print(PredictionOutputMAE)
+print(PredictionOutputRMSE)
